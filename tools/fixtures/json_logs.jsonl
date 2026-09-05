@@ -1,0 +1,4 @@
+{"timestamp": 1715000000, "level": "info", "service": "auth-service", "message": "User login successful", "user_id": 4120}
+{"time": "2024-05-06T12:30:00Z", "severity": "error", "app": "payment-api", "msg": "Payment gateway timeout for charge_id: ch_99218", "code": 504}
+{"@timestamp": "2024-05-06T12:35:00Z", "lvl": "warn", "logger": "inventory", "event": "Stock depleted for SKU-884", "quantity": 0}
+{"level": "critical", "service": "database", "message": "Connection pool exhausted", "active_connections": 100}
